@@ -1,4 +1,35 @@
 # Myjobs
+🛠️ Admin Dashboard – Powerful Management Tools
+The Admin Dashboard is a core feature of the CareerHub platform, designed to give administrators full control over platform content, users, and job-market dynamics. It enables smooth management of essential data to ensure the system remains up-to-date, efficient, and aligned with user needs.
+🔧 Admin Features Overview
+Admins can Add, Edit, and Delete records for the following sections:
+Company Management
+Manage registered companies
+Approve or decline new company accounts
+Update company profiles
+Course Management
+Add new training courses
+Update course details and content
+Remove outdated or inactive courses
+Employee Management
+Handle employee (trainer/staff) accounts
+Assign roles or responsibilities
+Monitor performance and activities
+Vacancy Management
+Review and publish job openings submitted by companies
+Edit or remove vacancies as needed
+Categorize job listings based on industry
+Applicants Management
+View and manage job applicants
+Track application status
+Filter by vacancy or qualifications
+Category Management
+Define course and job categories
+Maintain consistent classification for easier navigation
+User Management
+Manage platform users (admins, companies, applicants, employees)
+Assign roles and permissions
+Activate, deactivate, or delete user accounts
 Home
 ![image](https://github.com/user-attachments/assets/0ee722d6-efc1-4b20-9836-8ec3a7ea8237)
 ![image](https://github.com/user-attachments/assets/fa08dc80-32d4-44e4-91cc-903a83097c2d)
@@ -43,3 +74,14 @@ Category List
 List of Users 
 ![image](https://github.com/user-attachments/assets/5756869a-ff53-4dd3-b2f5-67972c59d97f)
 
+🧰 Tech Stack
+The CareerHub platform is built using a robust and scalable set of technologies to ensure performance, usability, and maintainability.
+🖥️ Frontend
+HTML5 – Markup structure
+CSS3 – Styling and layout
+Bootstrap – Responsive design and UI components
+JavaScript – Dynamic behavior and interactivity
+🔧 Backend
+PHP – Server-side scripting and application logic
+🗄️ Database
+MySQL – Relational database for managing users, jobs, courses, and more
